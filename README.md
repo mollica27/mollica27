@@ -1,13 +1,13 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá! Eu sou um profissional de TI com ampla experiência em gerenciamento de projetos, desenvolvimento de software e suporte técnico. Possuo habilidades sólidas em administração de sistemas, redes, banco de dados e segurança da informação. Com proficiência em linguagens de programação como JavaScript e Python, sou capaz de desenvolver soluções personalizadas para atender às necessidades específicas de cada cliente. Meu objetivo é continuar desenvolvendo e contribuir para o sucesso de empresas através das minhas habilidades técnicas e capacidade de resolver problemas.
+Olá! Eu sou um profissional de TI com ampla experiência em gerenciamento de projetos, desenvolvimento de software e suporte técnico. Possuo habilidades sólidas em administração de sistemas, redes, banco de dados e segurança da informação. Com proficiência em linguagens de programação como JavaScript e Java, sou capaz de desenvolver soluções personalizadas para atender às necessidades específicas de cada cliente. Meu objetivo é continuar desenvolvendo e contribuir para o sucesso de empresas através das minhas habilidades técnicas e capacidade de resolver problemas.
 
 ## Competências Principais
 
 - **Desenvolvimento Web:** JavaScript, NodeJS, HTML, CSS
-- **Linguagens de Programação:** Python, C#
-- **Ferramentas e Tecnologias:** Postman API, DevOps, Node.js
-- **Banco de Dados:** MySQL, SQL Server
+- **Linguagens de Programação:** Java, Python, C#
+- **Ferramentas e Tecnologias:** Postman API, DevOps, Git
+- **Banco de Dados:** MySQL, SQL Server, Postgresql
 - **Segurança da Informação:** Conscientização e melhores práticas
 
 ## Projetos Destacados

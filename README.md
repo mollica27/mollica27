@@ -1,30 +1,69 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Olá, eu sou o Natan Mollica 👋
 
-Olá! Eu sou um profissional de TI com ampla experiência em gerenciamento de projetos, desenvolvimento de software e suporte técnico. Possuo habilidades sólidas em administração de sistemas, redes, banco de dados e segurança da informação. Com proficiência em linguagens de programação como JavaScript e Java, sou capaz de desenvolver soluções personalizadas para atender às necessidades específicas de cada cliente. Meu objetivo é continuar desenvolvendo e contribuir para o sucesso de empresas através das minhas habilidades técnicas e capacidade de resolver problemas.
+Sou **Desenvolvedor Full Stack** com experiência em desenvolvimento web, APIs REST, bancos de dados relacionais, cloud e infraestrutura.
 
-## Competências Principais
+Atuo principalmente no backend com **ASP.NET Core, C# e Node.js**, além de experiência no frontend com **React, Next.js e Vue.js**. Também tenho vivência com **SQL Server, PostgreSQL, MongoDB, Azure DevOps, AWS, Linux, redes, segurança da informação e boas práticas de arquitetura**.
 
-- **Desenvolvimento Web:** JavaScript, NodeJS, HTML, CSS
-- **Linguagens de Programação:** Java, Python, C#
-- **Ferramentas e Tecnologias:** Postman API, DevOps, Git
-- **Banco de Dados:** MySQL, SQL Server, Postgresql
-- **Segurança da Informação:** Conscientização e melhores práticas
+Meu foco é desenvolver soluções escaláveis, bem estruturadas e com impacto real para empresas e usuários.
 
-## Projetos Destacados
+---
 
-- [appGigaMais](https://github.com/mollica27/GigaMais): O "Aplicativo de Consultas e Informações para Clientes de Internet de Fibra Óptica" é uma solução sob medida desenvolvida para fornecer aos clientes de nossa empresa de internet de fibra óptica uma experiência mais completa e informada. Este aplicativo visa simplificar a interação dos clientes com nossos serviços, oferecendo uma série de recursos úteis e informações relevantes sobre seus planos de internet.
-- [progworld.whats](https://github.com/mollica27/progworld.whats): O projeto "Hub para WhatsApp com Chatbot" é uma solução inovadora que visa melhorar a comunicação e o atendimento ao cliente por meio da plataforma WhatsApp. Este hub centraliza todas as interações com clientes, permitindo a automação de respostas por meio de um chatbot inteligente.
+## 🚀 Principais Stacks
 
-## Certificações e Licenças
-- Cursando Engenharia de Computação
+### Backend
+- C#
+- ASP.NET Core
+- Node.js
+- APIs REST
+- Microsserviços
+
+### Frontend
+- React
+- Next.js
+- Vue.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Banco de Dados
+- SQL Server
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Cloud, DevOps e Infraestrutura
+- Azure
+- Azure DevOps
+- AWS
+- Linux
+- Git
+- Docker
+- Redes
+- Firewalls
+- Entra ID
+- Intune
+
+---
+
+## 🎓 Formação e Estudos
+
+- Engenharia da Computação
+- Santander Coders 2023 — Trilha Web Back-End
 - Algoritmos e Lógica de Programação
-- Semana Spring React
+- Backend com ASP.NET Core e C#
+- JavaScript e TypeScript
+- Estruturas de Dados
+- Metodologias Ágeis
 
-## Contato
+---
 
-Você pode me encontrar nas seguintes redes sociais e plataformas:
+## 📫 Contato
 
 - LinkedIn: [Natan Mollica](https://www.linkedin.com/in/natan-mollica-788963221/)
-- Twitter: [@MollicaNatan](https://twitter.com/MollicaNatan)
+- GitHub: [github.com/mollica27](https://github.com/mollica27)
+- Email: natan.mollica@gmail.com
+
+---
 
 Fique à vontade para entrar em contato para discussões técnicas, colaborações ou apenas para uma conversa amigável. Estou sempre aberto a novas oportunidades e desafios!
